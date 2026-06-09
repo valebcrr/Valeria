@@ -1,14 +1,41 @@
-# Portafolio Personal - Valeria Becerra
+# Valeria Becerra | Web Developer 🌐
+Sitio web personal desarrollado con HTML y CSS puro.  
+Presenta mis proyectos y habilidades como desarrolladora web junior.
 
-Sitio web personal desarrollado con HTML y CSS puro.
+---
 
-## 🌐 Demo en vivo
-🔗 https://valeria-becerra.netlify.app
+## 🛠 Tecnologías
+- **HTML5**
+- **CSS3**
+- **Git y GitHub**
 
-## Tecnologías
-- HTML5
-- CSS3
-- Git y GitHub
+---
 
-## Descripción
-Portafolio personal donde muestro mis proyectos y habilidades como desarrolladora web.
+## ✨ Funcionalidades
+- Sección de presentación personal
+- Sección de proyectos con enlaces
+- Sección de contacto
+- Diseño responsive
+
+---
+
+## 🚀 Cómo usar
+```bash
+# Clonar repositorio
+https://github.com/valebcrr/valeria.git
+```
+
+---
+
+## 📂 Estructura del proyecto
+```text
+valeria/
+ ├─ index.html
+ ├─ style.css
+ └─ assets/
+```
+
+---
+
+## 🔗 Demo
+https://valeria-becerra.netlify.app
